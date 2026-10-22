@@ -1,5 +1,3 @@
-# Cannondale: The Complete History
+# Moved
 
-A sourced long-form history of the Cannondale bicycle company, 1971 to October 2026. Read it at https://pete-builds.github.io/cannondale-history/
-
-Images are from Wikimedia Commons under the licences named in each caption.
+This history now lives at https://pete-builds.github.io/research/cannondale-history/ (source: https://github.com/pete-builds/research).
